@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main function - puts programming is like a 
+ * main function - puts programming is like a
  * multilingual puzzle
  * */
 int main(void)
