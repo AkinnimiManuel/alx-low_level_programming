@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main function - puts programming is like a
- * multilingual puzzle
+ * main - Entry point
+ * 
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
