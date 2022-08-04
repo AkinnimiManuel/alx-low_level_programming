@@ -11,8 +11,3 @@ void print_name(char *name, void (*f)(char *))
 		return;
 	(*f)(name);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pri
